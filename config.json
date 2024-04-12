@@ -1,4 +1,4 @@
-{
+
 	"config": [
 		{ "name": "UAT", "url": "https://uat-dc.lancode.dev" },
 		{ "name": "蓝库云", "url": "https://www.lancode.cn" },
@@ -6,4 +6,4 @@
 		{ "name": "Lancode", "url": "https://www.lancode.com" }
 	]
 
-}
+
