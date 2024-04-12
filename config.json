@@ -1,9 +1,11 @@
-
-	"config": [
+{
+	
+	"data": [
 		{ "name": "UAT", "url": "https://uat-dc.lancode.dev" },
 		{ "name": "蓝库云", "url": "https://www.lancode.cn" },
 		{ "name": "YOOV PLUS", "url": "https://www.yoov.plus" },
 		{ "name": "Lancode", "url": "https://www.lancode.com" }
 	]
+}
 
 
